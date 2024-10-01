@@ -1,18 +1,16 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage
+  name: amg-test
   description: |
-    Backstage is an open-source developer portal that puts the developer experience first.
+    Test service, providing quality kitten placeholder content for your graphic design needs
   links:
     - title: Website
-      url: http://backstage.io
+      url: http://test.io
     - title: Documentation
-      url: https://backstage.io/docs
-    - title: Storybook
-      url: https://backstage.io/storybook
-    - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
+      url: https://fakeurl.io/docs
+    - title: Cash Cats
+      url: https://www.instagram.com/cashcats/
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
